@@ -1,8 +1,8 @@
 {
-    "title": "Shop Homepage",
+    "title": "OnXid Technologies",
     "name": "startbootstrap-shop-homepage",
     "version": "4.1.2",
-    "description": "A shop homepage HTML template built with Bootstrap",
+    "description": "OnXid Technologies site built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "bootstrap": "^4.3.1",
-        "jquery": "^3.3.1"
+        "jquery": "^3.4.0"
     },
     "devDependencies": {
         "browser-sync": "2.26.3",
