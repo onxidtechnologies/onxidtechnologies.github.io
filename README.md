@@ -1,4 +1,5 @@
 # [OnXid Technologies](http://onxidtechnologies.com)
 
 ## How to Build
-gulp
+* npm i
+* gulp
