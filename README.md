@@ -1,4 +1,4 @@
 # [OnXid Technologies](http://onxidtechnologies.com)
 
-## How to build
+## How to Build
 gulp
